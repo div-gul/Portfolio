@@ -7,7 +7,7 @@ const LINKS = {
   leetcode: "https://leetcode.com/u/divyani_gulhane/",
   github: "https://github.com/div-gul",
   linkedin: "https://www.linkedin.com/in/divyani-gulhane-38144031b",
-  projects: ["https://github.com/pranalicharkha/Dhatu-Scan", "https://github.com/OmKalshetti2276/PBL  ", "", "https://github.com/div-gul/Customer_Segmentation-"],
+  projects: ["https://github.com/pranalicharkha/Dhatu-Scan", "https://github.com/OmKalshetti2276/PBL  ", "https://github.com/div-gul/LibraryManagementSysten", "https://github.com/div-gul/Customer_Segmentation-"],
 };
 const skills = [["PROGRAMMING LANGUAGES", "Programming Foundations", "Problem solving, object-oriented programming, data structures, algorithms, and database querying.", "C++ · C · Python · SQL · JavaScript"], ["SOFTWARE & WEB DEV", "Web Development", "Building responsive interfaces, REST APIs, and frontend-backend integrations.", "React.js · FastAPI · HTML5/CSS3 · Tailwind CSS · JavaScript"], ["AI, DATA & ANALYTICS", "Data & Machine Learning", "Data preprocessing, exploratory analysis, visualization, and introductory machine learning models.", "Pandas · NumPy · Scikit-learn · Matplotlib · Machine Learning"], ["DATABASES & TOOLING", "Databases & Developer Tools", "Relational and NoSQL databases, CRUD operations, basic database design, and version control.", "MySQL · MongoDB  · Git & GitHub · VS Code"]];
 const projects = [
